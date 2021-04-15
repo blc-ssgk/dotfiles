@@ -34,10 +34,6 @@ export PATH=$HOME/.composer/vendor/bin:$PATH
 # exa
 alias ls='exa --group-directories-first'
 alias ll='exa -hal --git --time-style=long-iso --group-directories-first'
-# cd
-alias cdl="cd ~/Develop"
-alias cdlb="cd ~/Develop/balconia"
-alias cdle="cd ~/Develop/external"
 # zprezto
 ## git ショートカットを一覧化
 alias zgit='bat ~/.zprezto/modules/git/alias.zsh | grep "alias "'
